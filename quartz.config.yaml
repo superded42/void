@@ -225,8 +225,9 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
+        GitHub(quartz): https://github.com/jackyzha0/quartz
         Discord Community: https://discord.gg/cRFFHYye7t
+        GitHub(chest): https://github.com/superded42/chest
   - source: github:quartz-community/recent-notes
     enabled: true
     layout:
