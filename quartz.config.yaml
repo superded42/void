@@ -231,11 +231,7 @@ plugins:
     enabled: true
     layout:
       position: afterBody
-      priority: 5 
-    options:
-      limit: 15 # показывает 15 последних заметок
-      showTags: true
-      filter: []
+      priority: 10 
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
