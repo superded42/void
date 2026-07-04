@@ -14,8 +14,8 @@
 - **Node.js** (версия 22 или новее) и **npm** (устанавливаются вместе с Node.js). Проверь версии:
 
 ```bash
-    node -v   # должно быть v22.x.x
-    npm -v    # должно быть 10.x.x или выше
+node -v   # должно быть v22.x.x
+npm -v    # должно быть 10.x.x или выше
 ```
 
 - **Любой текстовый редактор** – рекомендую [Obsidian](https://obsidian.md) (он идеально совместим с Quartz), но подойдёт и обычный блокнот, VSCode и т.д.
@@ -47,15 +47,15 @@
 ### 3. Клонирование репозитория (если ты уже collaborator)
 
 ```bash
-    git clone https://github.com/superded42/chest.git
-    cd chest
+git clone https://github.com/superded42/chest.git
+cd chest
 ```
 
 Если вы используешь SSH (рекомендуется для удобства), то клонируй так:
 
 ```bash
-    git clone git@github.com:superded42/chest.git
-    cd chest
+git clone git@github.com:superded42/chest.git
+cd chest
 ```
 ---
 
@@ -64,7 +64,7 @@
 В папке проекта выполни:
 
 ```bash
-    npm install
+npm install
 ```
 
 Это установит все необходимые пакеты для работы Quartz (около 500). Подожди 1–2 минуты.
@@ -76,7 +76,7 @@
 Чтобы увидеть сайт на своём компьютере, выполни:
 
 ```bash
-    npx quartz build --serve
+npx quartz build --serve
 ```
 
 После сборки открой браузер и перейди по адресу: [http://localhost:8080](http://localhost:8080). Ты увидишь сайт с моими заметками.
@@ -100,26 +100,26 @@
 ### Создание новой заметки
 
 ```bash
-    nano content/новая-заметка.md   # или используй любой текстовый редактор
+nano content/новая-заметка.md   # или используй любой текстовый редактор
 ```
 
 Пример содержимого:
 
 ```markdown
-    ---
-    title: Законы сохранения
-    tags: [физика, механика]
-    ---
-    
-    # Законы сохранения
-    
-    ## Импульс
-    
-    $$ p = mv $$
-    
-    ## Энергия
-    
-    $$ E_k = \frac{mv^2}{2} $$
+---
+title: Законы сохранения
+tags: [физика, механика]
+---
+
+# Законы сохранения
+
+## Импульс
+
+$$ p = mv $$
+
+## Энергия
+
+$$ E_k = \frac{mv^2}{2} $$
 ```
 
 После сохранения файла ты можешь проверить его отображение локально (см. шаг 5).
@@ -131,9 +131,9 @@
 Если ты collaborator, ты можешь пушить напрямую в основную ветку (обычно `v5` или `main` – я скажу, какая используется).
 
 ```bash
-    git add content/   # или конкретный файл
-    git commit -m "Добавлена заметка о квантовой физике"
-    git push origin v5   # замените v5 на актуальную ветку
+git add content/   # или конкретный файл
+git commit -m "Добавлена заметка о квантовой физике"
+git push origin v5   # замените v5 на актуальную ветку
 ```
 
 После пуша автоматически запустится GitHub Actions, который соберёт сайт и опубликует его на GitHub Pages. Сайт обновится в течение 1–2 минут.
@@ -144,11 +144,13 @@
 
 Готовый сайт доступен по адресу:
 
-    https://superded42.github.io/chest
+https://superded42.github.io/chest
 
 Если ты форкнул репозиторий, то твой сайт будет по адресу:
 
-    https://<ваш-ник>.github.io/chest
+```
+https://<ваш-ник>.github.io/chest
+```
 
 ---
 
@@ -157,24 +159,24 @@
 - **Очистка кэша и пересборка:**
 
 ```bash
-    rm -rf .quartz-cache public
-    npx quartz build
+rm -rf .quartz-cache public
+npx quartz build
 ```
 
 - **Ручной деплой** (если автоматический не работает):
 
 ```bash
-    npx quartz build
-    cp -r public/* .
-    git add .
-    git commit -m "Ручной деплой"
-    git push origin v5
+npx quartz build
+cp -r public/* .
+git add .
+git commit -m "Ручной деплой"
+git push origin v5
 ```
 
 - **Запуск в режиме наблюдения** (автопересборка при изменениях):
 
 ```bash
-    npx quartz build --serve --watch
+npx quartz build --serve --watch
 ```
 
 ---
