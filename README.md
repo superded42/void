@@ -183,6 +183,7 @@ npx quartz build --serve --watch
 
 ##  Структура папок (основные)
 
+```
 chest/
 ├── content/ # ← заметки (это главная папка)
 │ ├── index.md # главная страница
@@ -194,6 +195,7 @@ chest/
 ├── quartz.config.ts # конфигурация сайта
 ├── package.json # зависимости
 └── .github/ # настройки GitHub Actions (для автодеплоя)
+```
 
 
 ---
