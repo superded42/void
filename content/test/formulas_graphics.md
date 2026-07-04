@@ -50,21 +50,17 @@ $$
 ---
 # Отображение графиков функций
 ###  $y=x$:
-```desmos-graph
-y=x
-```
+<iframe src="https://www.desmos.com/calculator/el8xt0724c?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 ### $y=\sin x$
-```desmos-graph
-y=\sin(x)
-```
+<iframe src="https://www.desmos.com/calculator/lznqpwoqzo?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 ### $y = \frac{\sin(x)}{x} + e^{-x^2} \cos(2\pi x)$
-```desmos-graph
-y = \frac{\sin(x)}{x} + e^{-x^2} \cos(2\pi x)
-```
-### Параметрическая спираль (Архимедова)
-```desmos-graph
-left=-10; right=10; top=10; bottom=-10;
----
-x(t) = t \cos(t)
-y(t) = t \sin(t)
-```
+<iframe src="https://www.desmos.com/calculator/edfmxb4ssd?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
+
+$$
+\begin{cases} 
+	y=\frac{1}{x} \\
+	y=x^2 \\ 
+	x^\frac{2}{4}+y^\frac{2}{9}=1
+	\end{cases}
+$$
+<iframe src="https://www.desmos.com/calculator/evqctp2dta?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
