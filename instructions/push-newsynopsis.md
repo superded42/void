@@ -39,4 +39,4 @@ git push origin newbranch/mechanics
 git push -u origin newbranch/mechanics
 ```
 
-6. **Далее необходимо [слить](./pull-request) новую ветку с основной веткой v5**.
+6. **Далее необходимо [слить](./pull-request.md) новую ветку с основной веткой v5**.
