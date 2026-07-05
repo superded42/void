@@ -1,0 +1,35 @@
+---
+title: Публикация изменений
+---
+# Как публиковать изменения?
+## Пошаговая инструкция:
+
+ 0. **Находясь в chest/:**
+ 1. **Переключиться на v5 (основная ветка) и обновить ее:**
+```bash
+git checkout v5
+git pull origin v5
+```
+2. **Создать новую ветку для изменений:**
+  Название ветки должно отображать суть изменения:
+```bash
+git checkout -b newsynopsis/mechanics
+```
+3. **Добавить изменения в /content, пример:**
+```bash
+nano content/test/newsynopsis.md
+```
+4. **Коммит изменений:**
+```bash
+git add content/
+git commit -m "Добавлен новый конспект по механике"
+```
+5. **Пуш ветки на GitHub:**
+```bash
+git push origin newsynopsis/mechanics
+```
+   Если ветка создана впервые, то Git предложить команду с -u:
+```bash
+git push -u origin newsynopsys/mechanics
+```
+6. **После проверки новая ветка с изменениями будет слита с основной веткой v5**.
