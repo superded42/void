@@ -22,7 +22,7 @@ git checkout -b newbranch/mechanics
 ```bash
 nano content/test/newsynopsis.md
 ```
-Если изменения вносятся через obsidian, то нужно следить за названием ветки в правом нижнем углу.
+Если изменения вносятся через [obsidian](./obsidian.md) , то нужно следить за названием ветки в правом нижнем углу.
 
 4. **Коммит изменений:**
 ```bash
