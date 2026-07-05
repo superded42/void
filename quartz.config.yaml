@@ -226,7 +226,6 @@ plugins:
     options:
       links:
         GitHub(quartz): https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
         GitHub(chest): https://github.com/superded42/chest
         Коллаба: https://github.com/superded42/chest/blob/v5/instructions/navigation.md
   - source: github:quartz-community/recent-notes
