@@ -1,66 +1,104 @@
 ---
-title: Демонстративный конспект
-tags: [физика, механика, законы-сохранения, график-функции]
-description: Импульс, энергия, момент импульса. Законы сохранения в замкнутых системах.
+title: Пример конспекта
+tags:
+  - физика
+  - график-функции
 ---
 
-# ЗС + графики функций
+# Оригинал -> формула
 
-## 1. Закон сохранения импульса
-
-В замкнутой системе векторная сумма импульсов всех тел остаётся постоянной:
-
+1. `$$x=\frac{-b \pm \sqrt{b^2-4ac}}{2a}$$`  $$x=\frac{-b \pm \sqrt{ b^{2}-4ac }}{2a}$$
+2.  `$$\frac{d}{dx} \left(x^2 \right)=2x$$`
 $$
-\sum \vec{p}_i = \text{const}
+	\frac{d}{dx}\left(x^{2}\right)=2x
 $$
-
-Для двух тел:
-
+3. `$$\int_{0}^{\infty} e^{-x^2} dx = \frac{\sqrt{\pi}}{2}$$`
 $$
-m_1 \vec{v}_1 + m_2 \vec{v}_2 = m_1 \vec{v}_1' + m_2 \vec{v}_2'
+	\int_{0}^{\infty} e^{-x^{2}}dx=\frac{\sqrt{ \pi }}{2}
 $$
----
-
-## 2. Закон сохранения механической энергии
-
-В замкнутой системе, где действуют только консервативные силы, полная механическая энергия сохраняется:
-
+4. `$$\sum_{n=1}^{\infty} \frac{1}{n^2} = \frac{\pi^2}{6}$$`
 $$
-E = E_k + E_p = \text{const}
+	\sum_{n=1}^{\infty} \frac{1}{n^{2}}=\frac{\pi^{2}}{6}
 $$
-
+5. 
+```
 $$
-\frac{m v_1^2}{2} + m g h_1 = \frac{m v_2^2}{2} + m g h_2
+\left\{
+\begin{aligned}
+x + y &= 5 \\
+2x - y &= 1
+\end{aligned}
+\right.
 $$
----
-
-## 3. Закон сохранения момента импульса
-
-В замкнутой системе момент импульса сохраняется:
-
+```
 $$
-\sum \vec{L}_i = \text{const}, \quad \vec{L} = \vec{r} \times \vec{p}
+	\left\{
+\begin{aligned}
+x + y &= 5 \\
+2x - y &= 1
+\end{aligned}
+\right.
 $$
-
-Для вращательного движения:
-
+6. 
+```
 $$
-I_1 \omega_1 = I_2 \omega_2
+\begin{pmatrix}
+a & b \\
+c & d
+\end{pmatrix}
+$$
+```
+$$
+\begin{pmatrix}
+a & b \\
+c & d
+\end{pmatrix}
+$$
+6. `$$\frac{\partial u}{\partial t} = \alpha \nabla^2 u$$`
+$$
+	\frac{\partial u}{\partial t} = \alpha \nabla^2 u
+$$
+7. 
+```
+$$
+f(x) = \begin{cases}
+x^2, & x \ge 0 \\
+-x, & x < 0
+\end{cases}
+$$
+```
+$$
+f(x) = \begin{cases}
+x^2, & x \ge 0 \\
+-x, & x < 0
+\end{cases}
+$$
+8. `$$\mathcal{L} = \int_{0}^{1} \left( \frac{1}{2} \dot{q}^2 - V(q) \right) dt$$`
+$$
+	\mathcal{L} = \int_{0}^{1} \left( \frac{1}{2} \dot{q}^2 - V(q) \right) dt
 $$
 ---
 # Отображение графиков функций
 ###  $y=x$:
 
+`<iframe src="https://www.desmos.com/calculator/el8xt0724c?embed" width="100%" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
+`
 <iframe src="https://www.desmos.com/calculator/el8xt0724c?embed" width="100%" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 
+---
 ### $y=\sin x$
 
+`<iframe src="https://www.desmos.com/calculator/lznqpwoqzo?embed" width="100%" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>`
 <iframe src="https://www.desmos.com/calculator/lznqpwoqzo?embed" width="100%" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 
+---
 ### $y = \frac{\sin(x)}{x} + e^{-x^2} \cos(2\pi x)$
 
+`<iframe src="https://www.desmos.com/calculator/edfmxb4ssd?embed" width="100%" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>`
 <iframe src="https://www.desmos.com/calculator/edfmxb4ssd?embed" width="100%" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 
+---
 $\begin{cases} y=\frac{1}{x} \\y=x^2 \\ x^\frac{2}{4}+y^\frac{2}{9}=1\end{cases}$
 
+`<iframe src="https://www.desmos.com/calculator/evqctp2dta?embed" width="100%" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>`
 <iframe src="https://www.desmos.com/calculator/evqctp2dta?embed" width="100%" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
