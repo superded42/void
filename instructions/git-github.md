@@ -23,7 +23,7 @@ git config --global user.email "Введи почту"
 1. Скачать установщик с официального сайта Git: https://git-scm.com/download/win
 2. Инструкции установщика можно оставить по умолчанию, но лучше обратить внимание на следующие пункты:
    
-   - - **Select Components**: оставить все галочки.
+   - **Select Components**: оставить все галочки.
    - **Choosing the default editor**: выбрать редактор по умолчанию (рекомендуется **Vim** или **Nano**).
    - **Adjusting your PATH environment**: выбрать **«Git from the command line and also from 3rd-party software»** (рекомендуется).
    - **Choosing HTTPS transport backend**: оставить **«Use the OpenSSL library»**.
