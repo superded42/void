@@ -236,6 +236,7 @@ plugins:
     options:
       hideFolderPages: true
       hideTagPages: true
+      limit: 5
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
@@ -279,6 +280,8 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
+  - source: github:quartz-community/not-found-page
+    enabled: false
 layout:
   groups:
     toolbar:
