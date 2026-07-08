@@ -257,6 +257,8 @@ plugins:
         - description
         - tags
         - aliases
+        - type
+        - teacher
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
