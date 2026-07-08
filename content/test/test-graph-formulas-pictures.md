@@ -3,48 +3,90 @@ title: Пример конспекта
 tags:
   - физика
   - график-функции
+  - математика
 type: lecture
+Преподаватель: Иванов И.И.
 ---
 
-# Оригинал -> формула
+# Математика LaTeX
 
-1. `$$x=\frac{-b \pm \sqrt{b^2-4ac}}{2a}$$`  
+1. Корни:
+```
 $$
-x=\frac{-b \pm \sqrt{ b^{2}-4ac }}{2a}
+	x=\frac{-b \pm \sqrt{ b^{2}-4ac }}{2a}
 $$
-2.  `$$\frac{d}{dx} \left(x^2 \right)=2x$$`
+``` 
+$$
+    x=\frac{-b \pm \sqrt{ b^{2}-4ac }}{2a}
+$$
+2.  Производная:
+```
 $$
 	\frac{d}{dx}\left(x^{2}\right)=2x
 $$
-3. `$$\int_{0}^{\infty} e^{-x^2} dx = \frac{\sqrt{\pi}}{2}$$`
+```
+$$
+	\frac{d}{dx}\left(x^{2}\right)=2x
+$$
+3. Интеграл:
+```
 $$
 	\int_{0}^{\infty} e^{-x^{2}}dx=\frac{\sqrt{ \pi }}{2}
 $$
-4. `$$\sum_{n=1}^{\infty} \frac{1}{n^2} = \frac{\pi^2}{6}$$`
+```
+$$
+	\int_{0}^{\infty} e^{-x^{2}}dx=\frac{\sqrt{ \pi }}{2}
+$$
+4. Сумма:
+```
 $$
 	\sum_{n=1}^{\infty} \frac{1}{n^{2}}=\frac{\pi^{2}}{6}
 $$
-5. `$$\left\{ \begin{aligned} x + y &= 5 \\ 2x - y &= 1 \end{aligned} \right.$$`
-
+```
 $$
-\left\{ \begin{aligned} x + y &= 5 \\ 2x - y &= 1 \end{aligned} \right.
+	\sum_{n=1}^{\infty} \frac{1}{n^{2}}=\frac{\pi^{2}}{6}
 $$
-6. `$$\begin{pmatrix} a & b \ c & d \end{pmatrix}$$`
+5. Система уравнений:
+```
 $$
-\begin{pmatrix}a & b \\c & d\end{pmatrix}
+	\left\{ \begin{aligned} x + y &= 5 \\ 2x - y &= 1
+	\end{aligned} \right.
 $$
-7. `$$\frac{\partial u}{\partial t} = \alpha \nabla^2 u$$`
+```
 $$
-	\frac{\partial u}{\partial t} = \alpha \nabla^2 u
+    \left\{ \begin{aligned} x + y &= 5 \\ 2x - y &= 1
+    \end{aligned} \right.
 $$
-8. `$$f(x) = \begin{cases} x^2, & x \ge 0 \\ -x, & x < 0 \end{cases}$$`
+6. Матрица:
+```
+$$
+	\begin{pmatrix}a & b \\c & d\end{pmatrix}
+$$
+```
+$$
+    \begin{pmatrix}a & b \\c & d\end{pmatrix}
+$$
+7. Кусочная функция:
+```
 $$
 f(x) = \begin{cases}
 x^2, & x \ge 0 \\
 -x, & x < 0
 \end{cases}
 $$
-9. `$$\mathcal{L} = \int_{0}^{1} \left( \frac{1}{2} \dot{q}^2 - V(q) \right) dt$$`
+```
+$$
+f(x) = \begin{cases}
+x^2, & x \ge 0 \\
+-x, & x < 0
+\end{cases}
+$$
+8. Сложный интеграл:
+```
+$$
+	\mathcal{L} = \int_{0}^{1} \left( \frac{1}{2} \dot{q}^2 - V(q) \right) dt
+$$
+```
 $$
 	\mathcal{L} = \int_{0}^{1} \left( \frac{1}{2} \dot{q}^2 - V(q) \right) dt
 $$
@@ -69,7 +111,18 @@ $$
 <iframe src="https://www.desmos.com/calculator/edfmxb4ssd?embed" width="100%" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 
 ---
-$\begin{cases} y=\frac{1}{x} \\y=x^2 \\ x^\frac{2}{4}+y^\frac{2}{9}=1\end{cases}$
+### $\begin{cases} y=\frac{1}{x} \\y=x^2 \\ x^\frac{2}{4}+y^\frac{2}{9}=1\end{cases}$
 
 `<iframe src="https://www.desmos.com/calculator/evqctp2dta?embed" width="100%" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>`
 <iframe src="https://www.desmos.com/calculator/evqctp2dta?embed" width="100%" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
+
+---
+# Построение чертежей
+
+### Движение тела по окружности:
+https://www.desmos.com/geometry/s1ni6prioc
+![[circle-move.png]]
+
+### Баллистика:
+https://www.desmos.com/geometry/iq4wkvnskl
+![[ballisics.png]]
