@@ -121,8 +121,8 @@ $$
 
 ### Движение тела по окружности:
 https://www.desmos.com/geometry/s1ni6prioc
-![[circle-move.png]]
+![[pictures/circle-move.png]]
 
 ### Баллистика:
 https://www.desmos.com/geometry/iq4wkvnskl
-![[ballisics.png]]
+![[pictures/ballisics.png]]
