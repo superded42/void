@@ -10,10 +10,11 @@ tags:
 ---
 1. [physics42.ru](https://physics42.ru/) - это образовательный портал, посвящённый физике и её законам. 
 2. [mathprofi.ru](https://mathprofi.ru/) - "легендарный" сайт по высшей математике.
-3. [metanit.com](https://metanit.com/) - языки и технологии программирования.
+3. [desmos.com](https://www.desmos.com/?lang=ru) - сборник инструментов для моделирования математических событий.
+4. [metanit.com](https://metanit.com/) - языки и технологии программирования.
 	   [metanit.com/linux](https://metanit.com/os/linux/) - командная строка Linux
-4. [git-scm.com](https://git-scm.com/book/ru/v2) - сайт-книга о Git, системе контроля версий.
-5. [desmos.com](https://www.desmos.com/?lang=ru) - сборник инструментов для моделирования математических событий.
+5. [git-scm.com](https://git-scm.com/book/ru/v2) - сайт-книга о Git, системе контроля версий.
+6. [altlinux.org/vim](https://www.altlinux.org/Vim_учебник) - Vim учебник.
 
 ---
 ---
