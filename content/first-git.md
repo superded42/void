@@ -1,5 +1,6 @@
 ---
 title: Первые шаги в Git
+unlisted: true
 ---
 # Как начать?
 

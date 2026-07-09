@@ -1,5 +1,6 @@
 ---
 title: Простой гайд на LaTeX
+unlisted: true
 ---
 ### Что такое LaTeX?
 
