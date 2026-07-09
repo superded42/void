@@ -1,0 +1,39 @@
+---
+title: Библиотека
+tags:
+  - notebook
+---
+---
+---
+# Сайты:
+---
+---
+1. [physics42.ru](https://physics42.ru/) - это образовательный портал, посвящённый физике и её законам. 
+2. [mathprofi.ru](https://mathprofi.ru/) - "легендарный" сайт по высшей математике.
+3. [metanit.com](https://metanit.com/) - языки и технологии программирования.
+	   [metanit.com/linux](https://metanit.com/os/linux/) - командная строка Linux
+4. [git-scm.com](https://git-scm.com/book/ru/v2) - сайт-книга о Git, системе контроля версий.
+5. [desmos.com](https://www.desmos.com/?lang=ru) - сборник инструментов для моделирования математических событий.
+
+---
+---
+# Книги: 
+---
+---
+# Математический анализ
+**Издательство** МГУ
+**Год издания:** 1985
+**Авторы:** *В.А. Ильин, В.А. Садовничий, Бл.Х. Сендов*
+**Том 1:** [djvu.online](https://djvu.online/file/63yj8K99K8UhK)
+**Том 2:** [djvu.online](https://djvu.online/file/6BWOjmmOjXkGY)
+**Примечание:** по версии [mathprofi.ru](https://mathprofi.ru/) это самый солидный учебник по математическому анализу
+
+---
+# Математический анализ
+**Издательство** МЦНМО
+**Год издания** 2012
+**Автор:** *В.А. Зорич*
+**Том 1:** [djvu.online](https://djvu.online/file/B63yYm7E9tb1s)
+**Том 2:** [djvu.online](https://djvu.online/file/1aYhjktrnyz5j)
+
+---
