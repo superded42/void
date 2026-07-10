@@ -40,6 +40,23 @@ tags:
 **Том 2:** [djvu.online](https://djvu.online/file/1aYhjktrnyz5j)
 
 ---
+### Курс высшей математики и математической физики
+**Все 10 томов в одном архиве:** [telegram.org](https://t.me/physics_lib/11206), [vk.com](https://vk.com/s/v1/doc/xEdJbmz0vQzkBiEuzRqfD26aBYPojRVyZhRj8w9N6lav2kMl8Q8)
+
+|                                         *Книга*                                         |      *Авторы*      | *Год издания* |                       *Ссылка*                        |
+| :-------------------------------------------------------------------------------------: | :----------------: | :-----------: | :---------------------------------------------------: |
+|                               Дифференциальные уравнения                                | Тихонов, Свешников |     2005      | [djvu.online](https://djvu.online/file/WZBmfNK64sjLS) |
+|                                    Линейная алгебра                                     |   Ильин, Позняк    |     2002      | [djvu.online](https://djvu.online/file/cswHYw9a1z97G) |
+|                                 Аналитическая геометрия                                 |   Ильин, Позняк    |     2004      | [djvu.online](https://djvu.online/file/JRSPw7QX3WrQA) |
+| Дифференциальные и интегральные уравнения, вариационное исчисление в примерах и задачах | Медведев, Тихонов  |     2003      | [djvu.online](https://djvu.online/file/luaDJ7KoFqG50) |
+|                  Дифференциальные уравнения и вариационное исчисление                   |     Эльсгольц      |     1969      | [djvu.online](https://djvu.online/file/PZHK2Ez6iQiIF) |
+|                                 Интегральные уравнения                                  | Васильева, Тихонов |     2002      | [djvu.online](https://djvu.online/file/imMLTPygEIlco) |
+|                                Кратные интегралы и ряды                                 |    Будак, Фомин    |     2002      | [djvu.online](https://djvu.online/file/prC9hWJiFyL0y) |
+|                        Основы математического анализа (часть 1)                         |   Ильин, Позняк    |     2005      | [djvu.online](https://djvu.online/file/KU8UaV5J05IGV) |
+|                        Основы математического анализа (часть 2)                         |   Ильин, Позняк    |     2002      | [djvu.online](https://djvu.online/file/qVitAkMmb4U9K) |
+|                         Теория функций и комплексной переменной                         | Свешников, Тихонов |     2005      | [djvu.online](https://djvu.online/file/YE43LmMnvJha7) |
+
+---
 ---
 ## Физика
 ---
