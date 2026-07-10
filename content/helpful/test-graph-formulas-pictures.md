@@ -6,6 +6,7 @@ tags:
   - математика
 type: example
 teacher: Иванов И.И.
+date: 2026-07-07
 ---
 
 # Математика LaTeX
