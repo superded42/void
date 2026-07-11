@@ -227,7 +227,6 @@ plugins:
       links:
         GitHub(quartz): https://github.com/jackyzha0/quartz
         GitHub(chest): https://github.com/superded42/chest
-        Коллаба: https://superded42.github.io/chest/navigation
   - source: github:quartz-community/recent-notes
     enabled: true
     layout:
