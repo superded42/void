@@ -301,10 +301,12 @@ layout:
         - reader-mode
       positions:
         right: []
+        afterBody: []
     tag:
       exclude:
         - reader-mode
       positions:
         right: []
+        afterBody: []
     canvas: {}
     bases: {}
