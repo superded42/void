@@ -1,24 +1,30 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
-/* Перенос длинных названий файлов в Explorer на всех устройствах */
-.explorer .folder-title,
-.explorer .nav-file-title,
-.explorer .folder-container .folder-title,
-.explorer .tree-item-self .nav-file-title {
+
+/* 100% перенос длинных названий в Explorer */
+.explorer .nav-files-container .nav-file-title.tree-item-self,
+.explorer .folder-container .folder-title.tree-item-self {
+    white-space: normal !important;
     word-wrap: break-word !important;
     overflow-wrap: break-word !important;
     word-break: break-word !important;
-    white-space: normal !important;
     max-width: 100% !important;
+    display: inline-block !important;
+    line-height: 1.4 !important;
+    padding-right: 8px !important;
+    box-sizing: border-box !important;
 }
 
-/* Также для мобильных устройств */
-.explorer .explorer-ul .explorer-ul .folder-title,
-.explorer .explorer-ul .explorer-ul .nav-file-title {
-    word-wrap: break-word !important;
-    overflow-wrap: break-word !important;
-    word-break: break-word !important;
-    white-space: normal !important;
-    max-width: 100% !important;
+/* Для мобильных устройств (если нужно) */
+@media (max-width: 768px) {
+    .explorer .nav-file-title.tree-item-self {
+        white-space: normal !important;
+        word-wrap: break-word !important;
+        overflow-wrap: break-word !important;
+        word-break: break-word !important;
+        max-width: 100% !important;
+        display: inline-block !important;
+        line-height: 1.4 !important;
+    }
 }
