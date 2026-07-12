@@ -8,3 +8,4 @@ tags:
   - Кн_3_Учение_о_понятии
   - Раздел_3_Идея
 ---
+[Оглавление](/philosophy/science-logic/index)
