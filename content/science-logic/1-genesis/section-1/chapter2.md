@@ -8,3 +8,6 @@ tags:
   - Кн_1_Учение_о_бытии
   - Раздел_1_Определенность_Качество
 ---
+---
+[Глава третья](science-logic/1-genesis/section-1/chapter3)
+[Оглавление](science-logic/index)
