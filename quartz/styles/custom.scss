@@ -1,3 +1,11 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+/* Перенос длинных названий файлов в Explorer */
+.explorer .folder-title,
+.explorer .nav-file-title {
+    word-wrap: break-word;          /* Переносит слова, которые не помещаются в строку */
+    overflow-wrap: break-word;      /* Стандартизированная версия word-wrap */
+    word-break: break-word;         /* Перенос по словам, если это необходимо */
+    white-space: normal;            /* Отключает принудительное отсутствие переносов */
+}
