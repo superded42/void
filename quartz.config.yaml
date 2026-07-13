@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: ru-RU
-  baseUrl: superded42.github.io/chest
+  baseUrl: superded42.github.io/void
   ignorePatterns:
     - private
     - templates
