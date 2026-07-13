@@ -226,7 +226,7 @@ plugins:
     options:
       links:
         GitHub(quartz): https://github.com/jackyzha0/quartz
-        GitHub(chest): https://github.com/superded42/chest
+        GitHub(void): https://github.com/superded42/void
   - source: github:quartz-community/recent-notes
     enabled: true
     layout:

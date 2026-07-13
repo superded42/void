@@ -1,4 +1,4 @@
-#  chest (сундук) — цифровой склад с конспектами (форк Quartz)
+#  VOID — цифровой склад с конспектами (форк Quartz)
 
 Это **форк** генератора статических сайтов **[Quartz](https://github.com/jackyzha0/quartz)** (автор: [jackyzha0](https://github.com/jackyzha0)). 
 
