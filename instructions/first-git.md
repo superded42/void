@@ -5,7 +5,7 @@ title: Первые шаги в Git
 
 1. **Клон репозитория:**
 ```
-git clone https://github.com/superded42/chest.git
+git clone https://github.com/superded42/void.git
 cd chest
 npm install # Установка зависимостей проекта
 npx quartz plugin install
