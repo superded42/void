@@ -6,7 +6,7 @@ title: Сливание новой ветки с основной
 ## I. Создание Pull Request на GitHub
 ### Вариант А: интерфейс GitHub
 1. После пуша новой ветки зайди в репозиторий:
-   https://github.com/superded42/chest
+   https://github.com/superded42/void
 2. Pull request -> New pull request 
 3. Выбор:
    * base: `v5`
