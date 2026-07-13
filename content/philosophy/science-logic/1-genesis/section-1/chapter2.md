@@ -9,5 +9,5 @@ tags:
   - Раздел_1_Определенность_Качество
 ---
 ---
-[Глава третья](science-logic/1-genesis/section-1/chapter3)
+[Глава третья](philosophy/science-logic/1-genesis/section-1/chapter3)
 [Оглавление](science-logic/index)
