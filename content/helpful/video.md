@@ -18,11 +18,13 @@ type: example
 </div>
 ```
 
+[Петров С.В. - Квантовая механика - 1. Введение в квантовую механику. Часть 1](https://rutube.ru/video/ffa8bd3988e8b549411a6a3d7420fa74/)
+
 <div style="width: 100%; aspect-ratio: 16 / 9;">
 <iframe width="720" height="405" src="https://rutube.ru/play/embed/ffa8bd3988e8b549411a6a3d7420fa74/" style="border: none;" allow="clipboard-write; autoplay" allowFullScreen></iframe>
 </div>
 # Вставка из vkvideo:
-src копировать до &hash. Сайт глючный, лучше использовать этот костыль:
+Работает только если  src копировать до &hash и заменять `vkvideo.ru` на `vk.com`. Пока что видео отображается только в obsidian. vkvideo глючный, лучше использовать этот костыль:
 
 ```
 <div style="width: 100%; aspect-ratio: 16 / 9;">
@@ -33,6 +35,8 @@ src копировать до &hash. Сайт глючный, лучше исп�
   </iframe>
 </div>
 ```
+
+[Ахмедов Э.Т. - Общая теория относительности - 1. Основные понятия СТО](https://vkvideo.ru/video-176441665_456252770?from=search&search_track_code=video_761f66cdgfnIJU6tws7QTPWp-ozRdm-hQOtu7wIua3sQzAEBJ-jjjJd3EcSAk4UfrMPW3YUyPvwtrjysVCF-fHGgbmZkdWcUBetZaRMUEZI8vEtKCa6sfIA5siPMo_v9ma0dAxnp5YW6YhD_k5WSeMKspbjkQF1AmQq-fKCE9G1woGIQEf_jgrpnHPqEmYnEFQlJuuEhLu0cv1nfIU0KD45fkZmHZHkSGhV4mvY)
 
 <div style="width: 100%; aspect-ratio: 16 / 9;">
   <iframe
@@ -42,8 +46,7 @@ src копировать до &hash. Сайт глючный, лучше исп�
   </iframe>
 </div>
 # Вставка из YouTube
-*Замедляют в РФ. Проще по-старинке пользоваться ссылками*
-https://youtu.be/DIKtrSj-QeU?si=Luf5k2pyAhZB7qIc
+*Замедляют в РФ. Проще по-старинке пользоваться ссылками*.
 
 ```
 <div style="width: 100%; aspect-ratio: 16 / 9;">
@@ -54,6 +57,8 @@ https://youtu.be/DIKtrSj-QeU?si=Luf5k2pyAhZB7qIc
   </iframe>
 </div>
 ```
+
+[Попов С.Б. - Астрофизика - 1. История становления автрономии](https://youtu.be/DIKtrSj-QeU?si=Luf5k2pyAhZB7qIc)
 
 <div style="width: 100%; aspect-ratio: 16 / 9;">
   <iframe
