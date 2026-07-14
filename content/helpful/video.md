@@ -11,6 +11,8 @@ type: example
 
 </div>
 ```
+
+---
 # Вставка из Rutube:
 ```
 <div style="width: 100%; aspect-ratio: 16 / 9;">
@@ -23,6 +25,8 @@ type: example
 <div style="width: 100%; aspect-ratio: 16 / 9;">
 <iframe width="720" height="405" src="https://rutube.ru/play/embed/ffa8bd3988e8b549411a6a3d7420fa74/" style="border: none;" allow="clipboard-write; autoplay" allowFullScreen></iframe>
 </div>
+
+---
 # Вставка из vkvideo:
 Работает только если  src копировать до &hash и заменять `vkvideo.ru` на `vk.com`. Пока что видео отображается только в obsidian. vkvideo глючный, лучше использовать этот костыль:
 
@@ -45,6 +49,8 @@ type: example
     allowfullscreen>
   </iframe>
 </div>
+
+---
 # Вставка из YouTube
 *Замедляют в РФ. Проще по-старинке пользоваться ссылками*.
 
