@@ -9,3 +9,4 @@ tags:
   - Раздел_1_Определенность_Качество
 ---
 [Оглавление](/philosophy/science-logic/index)
+[Общие примечания](/philosophy/science-logic/general-notes)

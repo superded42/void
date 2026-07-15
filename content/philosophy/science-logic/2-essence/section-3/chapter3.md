@@ -9,3 +9,4 @@ tags:
   - Раздел_3_Действительность
 ---
 [Оглавление](/philosophy/science-logic/index)
+[Общие примечания](/philosophy/science-logic/general-notes)
