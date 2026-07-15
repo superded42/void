@@ -10,4 +10,5 @@ tags:
 ---
 ---
 [Глава третья](philosophy/science-logic/1-genesis/section-1/chapter3)
-[Оглавление](science-logic/index)
+[Оглавление](/philosophy/science-logic/index)
+[Общие примечания](/philosophy/science-logic/general-notes)

@@ -9,3 +9,4 @@ tags:
   - Раздел_1_Сущность_как_рефлексия_в_самой_себе
 ---
 [Оглавление](/philosophy/science-logic/index)
+[Общие примечания](/philosophy/science-logic/general-notes)

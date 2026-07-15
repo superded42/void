@@ -32,3 +32,4 @@ tags:
 ---
 [Глава вторая](/philosophy/science-logic/1-genesis/section-1/chapter2)
 [Оглавление](/philosophy/science-logic/index)
+[Общие примечания](/philosophy/science-logic/general-notes)

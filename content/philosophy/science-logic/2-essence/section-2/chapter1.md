@@ -9,3 +9,4 @@ tags:
   - Раздел_2_Явление
 ---
 [Оглавление](/philosophy/science-logic/index)
+[Общие примечания](/philosophy/science-logic/general-notes)

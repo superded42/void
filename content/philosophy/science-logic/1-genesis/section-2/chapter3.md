@@ -9,3 +9,4 @@ tags:
   - Раздел_2_Величина_количество
 ---
 [Оглавление](/philosophy/science-logic/index)
+[Общие примечания](/philosophy/science-logic/general-notes)
