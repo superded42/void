@@ -29,8 +29,8 @@ tags:
 	- **Том 3. Учение о понятии:** [ЯндексДиск](https://docviewer.yandex.ru/view/2179777241/?*=uSpPri8TiVhe%2BfSyQleeWsSTZc57InVybCI6InlhLWRpc2stcHVibGljOi8vUkUxUFg2MXFnZlRwOUwyNkswbjZ4ZnRLNGFkV0xFVUljMUF6amxrUWpvODcxTTVEUkt1QUZrRjk4UVdncW9zOHEvSjZicG1SeU9Kb25UM1ZvWG5EYWc9PTov0JTQuNCw0LvQtdC60YLQuNC60LAg0Lgg0LvQvtCz0LjQutCwL9CT0LXQs9C10LvRjCDQuCDQvdC10LzQtdGG0LrQsNGPINC60LvQsNGB0YHQuNGH0LXRgdC60LDRjyDRhNC40LvQvtGB0L7RhNC40Y8v0JPQtdCz0LXQu9GML9Ch0L7Rh9C40L3QtdC90LjRjy%2FQndCw0YPQutCwINC70L7Qs9C40LrQuCAoMTk3MC0xOTcyKS%2FQk9C10LPQtdC70Ywg0JMu0JIu0KQuX9Cd0LDRg9C60LAg0LvQvtCz0LjQutC4INGCLjMgKNCk0LjQu9C%2B0YHQvtGE0YHQutC%2B0LUg0L3QsNGB0LvQtdC00LjQtSDRgi40OClfMTk3Mi5kanZ1IiwidGl0bGUiOiLQk9C10LPQtdC70Ywg0JMu0JIu0KQuX9Cd0LDRg9C60LAg0LvQvtCz0LjQutC4INGCLjMgKNCk0LjQu9C%2B0YHQvtGE0YHQutC%2B0LUg0L3QsNGB0LvQtdC00LjQtSDRgi40OClfMTk3Mi5kanZ1Iiwibm9pZnJhbWUiOmZhbHNlLCJ1aWQiOiIyMTc5Nzc3MjQxIiwidHMiOjE3ODQxOTYwNDkwOTUsInl1IjoiMjQ2MTA2OTk2MTc4MTI3MzU4MCJ9), [djvu.online](https://djvu.online/file/QVQETSbaLxW1I)
 
 ## Конспект Ленина по "Науке логики":
-*Ленин В.И. полное собрание сочинений т. 29: Философские тертради:* стр. 77
-**Издание: ИЗДАТЕЛЬСТВО ПОЛИТИЧЕСКОЙ ЛИТЕРАТУРЫ**
+*Ленин В.И. полное собрание сочинений т. 29. Философские тертради:* стр. 77
+*Издание: ИЗДАТЕЛЬСТВО ПОЛИТИЧЕСКОЙ ЛИТЕРАТУРЫ*
 **Год издания:** 1973
 **Скачать:** [ЯндексДиск](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FRE1PX61qgfTp9L26K0n6xftK4adWLEUIc1AzjlkQjo871M5DRKuAFkF98QWgqos8q%2FJ6bpmRyOJonT3VoXnDag%3D%3D%3A%2F_МЭЛ_Сочинения%2FВИЛ%2FВИЛ_ПСС_pdf-djvu%2FЛенин%20В.И._ПСС%20т.%2029.%20Философские%20тетради_1973.pdf&name=Ленин%20В.И._ПСС%20т.%2029.%20Философские%20тетради_1973.pdf), [djvu.online](https://djvu.online/file/j24N8YtpFnfN6)
 
