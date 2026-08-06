@@ -3,6 +3,7 @@ title: Дашборд
 ---
 ### Основные разделы:
 - [Философия](/philosophy/index)
+- [ЧС](emergencies/index)
 - [helpful](/helpful/index)
 ### О сайте:
 + Сборник конспектов и заметок.
