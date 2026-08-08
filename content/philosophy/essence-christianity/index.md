@@ -15,6 +15,8 @@ tags:
 # Оглавление конспекта:
 [Введение](philosophy/essence-christianity/introduction/index)
 - [Глава первая. Общая сущность христианства](philosophy/essence-christianity/introduction/chapter1)
+
 [Цитаты](philosophy/essence-christianity/quotes)
 
+# Ручная навигация
 ---
