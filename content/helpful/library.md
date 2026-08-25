@@ -18,6 +18,8 @@ date: 2026-07-04
 	   [metanit.com/linux](https://metanit.com/os/linux/) - командная строка Linux
 5. [git-scm.com](https://git-scm.com/book/ru/v2) - сайт-книга о Git, системе контроля версий.
 6. [altlinux.org/vim](https://www.altlinux.org/Vim_учебник) - Vim учебник.
+7. [pravo.gov.ru](http://pravo.gov.ru/codex/) -Кодексы РФ (официальный портал правовой информации).
+8. [python.org](https://docs.python.org/ru/3.14/tutorial/index.html) - официальная документация Python
 
 ---
 ---
@@ -136,8 +138,38 @@ date: 2026-07-04
 - **Том 5. Статистическая физика (часть 1):** [djvu.online](https://djvu.online/file/fOg9ysD3tX8zY)
 - **Том 6. Гидродинамика:** [djvu.online](https://djvu.online/file/8VpV5lDf4CKnl)
 - **Том 7. Теория упругости:** [djvu.online](https://djvu.online/file/b5LXfcZyHjxAO)
-- **Том 8. Электродинамика сплошных сред:** [djvu.online](https://djvu.online/file/Dr45HzVkKxk59)
+- **Том 8. Электродинoамика сплошных сред:** [djvu.online](https://djvu.online/file/Dr45HzVkKxk59)
 - **Том 9. Статистическая физика (часть 2):** [djvu.online](https://djvu.online/file/901niwPFXLjUw)
 - **Том 10. Физическая кинетика:** [djvu.online](https://djvu.online/file/tIbqZ3ZuVfP8x)
 
+---
+### Берклеевский курс физики
+**Издательство:** МОСКВА "НАУКА" ГЛАВНАЯ РЕДАКЦИЯ ФИЗИКО-МАТЕМАТИЧЕСКОЙ ЛИТЕРАТУРЫ
+**Все 6 томов в одном архиве:** [telegram.org](https://t.me/physics_lib/15017), [vk.ru](https://vk.ru/s/v1/doc/fM7JoFvYzC56ZWvypx-rBUdi7TQfgBdGMOxQLnFfOOvi3H4rJGM)
+- **Том 1. Механика**
+  **Год издания:** 1983
+  **Авторы:** *Ч. Киттель, В. Найт, М. Рудерман*
+  **Скачать:** [djvu.onine](https://djvu.online/file/33M5S1EEna4Yq)
+- **Том 2. Электричество и магнетизм**
+  **Год издания:** 1983
+  **Автор:** *Э. Парселл*
+  **Скачать:** [djvu.online](https://djvu.online/file/upWfkkHou4pSi)
+- **Том 3. Волны
+  Год издания:** 1984
+  **Автор:** *Ф. Крауфорд*
+  **Скачать:** [djvu.online](https://djvu.online/file/yhzThQ6i7b6q3)
+- **Том  4. Квантовая физика**
+  **Год издания:** 1986
+  **Автор:** *Э. Вихман*
+  **Скачать:** [djvu.online](https://djvu.online/file/RE5eCwTuKmGln)
+- **Том 5. Статистическая физика**
+  **Год издания:** 1977
+  **Автор:** *Ф. Рейф*
+  **Скачать:** [djvu.online](https://djvu.online/file/ajbIHOw97bVJW)
+- **Том 6. Физическя лаборатория**
+  **Год издания:** 1972
+  **Автор:** *А. Портис*
+  **Скачать:** [djvu.online](https://djvu.online/file/ail6TrS8pcQyM)
+
+---
 ---
