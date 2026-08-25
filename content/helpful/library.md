@@ -138,7 +138,7 @@ date: 2026-07-04
 - **Том 5. Статистическая физика (часть 1):** [djvu.online](https://djvu.online/file/fOg9ysD3tX8zY)
 - **Том 6. Гидродинамика:** [djvu.online](https://djvu.online/file/8VpV5lDf4CKnl)
 - **Том 7. Теория упругости:** [djvu.online](https://djvu.online/file/b5LXfcZyHjxAO)
-- **Том 8. Электродинoамика сплошных сред:** [djvu.online](https://djvu.online/file/Dr45HzVkKxk59)
+- **Том 8. Электродинамика сплошных сред:** [djvu.online](https://djvu.online/file/Dr45HzVkKxk59)
 - **Том 9. Статистическая физика (часть 2):** [djvu.online](https://djvu.online/file/901niwPFXLjUw)
 - **Том 10. Физическая кинетика:** [djvu.online](https://djvu.online/file/tIbqZ3ZuVfP8x)
 
