@@ -228,7 +228,7 @@ plugins:
         GitHub(quartz): https://github.com/jackyzha0/quartz
         GitHub(void): https://github.com/superded42/void
   - source: github:quartz-community/recent-notes
-    enabled: true
+    enabled: false
     layout:
       position: afterBody
       priority: 10 
