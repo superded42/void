@@ -5,6 +5,7 @@ title: Дашборд
 - [Философия](/philosophy/index)
 - [ЧС](emergencies/index)
 - [helpful](/helpful/index)
+- ***[Библиотека](library)***
 ### О сайте:
 + Сборник конспектов и заметок.
 + [Форк](https://github.com/superded42/void) репозитория [Quartz](https://github.com/jackyzha0/quartz).
