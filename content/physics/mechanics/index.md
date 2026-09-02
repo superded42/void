@@ -7,3 +7,4 @@ date: 2026-09-02
 ---
 
 [Лекция 1: Введение в курс физики](/physics/mechanics/lecture1)
+[Лекция 2: Кинематика поступательного движения](/physics/mechanics/lecture2)
